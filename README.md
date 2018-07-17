@@ -1,8 +1,8 @@
-###Delivery
+### Delivery
 * Create a java program to address the problem statement below
 * Create a comprehensive Junit test suite
 
-###Problem Statement
+### Problem Statement
 Develop a Java implementation of a one-lane bridge. Cars coming from the north and the south arrive
 at a one-lane bridge and only one car in the same direction can pass through.
 
@@ -10,7 +10,7 @@ at a one-lane bridge and only one car in the same direction can pass through.
 
 ✔ Start with Northbound: 3 cars
 
-###Rules
+### Rules
 ✔ Cars &gt;= 3 or the direction with higher number of cars lined up has priority to cross the bridge
 
 ✔ If car numbers are equal on both directions, the priority switches to opposite side
@@ -21,7 +21,7 @@ at a one-lane bridge and only one car in the same direction can pass through.
 
 ✔ Program can break if queue on either side becomes zero.
 
-###Output
+### Output
 Please provide log output such that you can observe what happens on the one-lane bridge. This
 output could for instance look as follows:
 
